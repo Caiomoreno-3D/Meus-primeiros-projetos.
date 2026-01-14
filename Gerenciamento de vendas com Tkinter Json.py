@@ -315,4 +315,5 @@ btn_alterar.pack(pady=10)
 btn_sair = ttk.Button(root, text="Sair", command=root.quit, width=30)
 btn_sair.pack(pady=10)
 
+
 root.mainloop()
